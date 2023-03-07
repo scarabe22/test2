@@ -1,2 +1,3 @@
 Ceci est un fichier texte from windows 10 VM VB
 ajout d'une 2ème ligne
+ajout d'une 3ème ligne
