@@ -1,2 +1,1 @@
-rerere
-rere
+Ceci est un fichier texte from windows 10 VM VB
